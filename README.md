@@ -70,10 +70,10 @@ ___
 </p>
 
 ---
+<p align = "center">
+<img src="![](https://komarev.com/ghpvc/?username=owaisbaloch00&color=green)">
 
-
-
-
+</p>
 ---
 
 ## 🏆 My Achievements
